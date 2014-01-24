@@ -1,0 +1,13 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Bytový dùm Hládkov 3</name>    
+    <atom:link href="http://www.hladkov.cz" />    
+    <Placemark>      
+      <name>Bytový dùm Hládkov 3, Praha 6</name>      
+      <Point>        
+        <coordinates>50.088883,14.385349</coordinates>      
+      </Point>    
+    </Placemark>    
+  </Document> 
+</kml>

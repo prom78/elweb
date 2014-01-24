@@ -1,0 +1,33 @@
+[h1] Kontakt [/h1]
+
+V případě jakýchkoli dotazů nás kontaktujte na:
+
+E-mailové adrese 
+[b] pronajem"zavináč"hladkov.cz [/b]
+
+Telefonním čísle
+[h3] +420 724 165 826 [/h3]
+
+Děkujeme a těšíme se na viděnou!
+
+Váš Hládkov tým
+ 
+[h3]Adresa domu a spojení MHD[/h3]
+Hládkov 686/3
+Praha 6 Střešovice
+160 00
+
+* zastávka autobusů 174,180,502 a tramvaje 25 [link"http://jizdnirady.idnes.cz/praha/spojeni/?f=Hl%C3%A1dkov"]Hládkov[/link]
+
+* zastávka tramvají 22,25,57 a autobusů 143 [link"http://jizdnirady.idnes.cz/praha/spojeni/?f=Malovanka"]Malovanka[/link]
+
+* zastávka tramvají 22,25,57 [link"http://jizdnirady.idnes.cz/praha/spojeni/?f=Pohořelec"]Pohořelec[/link]
+
+* Stanice metra Hradčanská [link"http://jizdnirady.idnes.cz/praha/spojeni/?f=Hradčanská"]Pohořelec[/link] a pak tramvají 25 dvě zastávky na Pohořelec
+
+* Stanice metra Malostranská [link"http://jizdnirady.idnes.cz/praha/spojeni/?f=Hradčanská"]Malostranská[/link] a pak tramvají 22 tři zastávky na Pohořelec
+
+* úplně nejlépe pěšky z Malostranského náměstí 10 min nebo z Újezdu přes Petřín 30 min. Pokud využijete lanovku na Nebozízek, tak jen 20 minut
+ 
+[h3]Mapa[/h3]
+[iframe width="443" height="300" align="left" frameborder="10" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.cz/maps?hl=cs&q=Hl%E1dkov%203,%20Praha-Praha%206&t=h&z=15&iwloc=&output=embed"][/iframe]

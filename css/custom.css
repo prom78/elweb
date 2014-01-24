@@ -1,0 +1,27 @@
+H1 {
+	font-size: 12pt;
+	margin: 0px;
+	color: #000055;
+}
+.banner {
+	background: url("/pics/background_banner.jpg") no-repeat center top;
+	text-align: right;
+	font: italic 18pt bold;
+}
+.bannertext {
+	text-align: right;
+	size: 20pt;
+}
+BODY {
+	background: url("/pics/background_text.jpg") no-repeat center top fixed;
+	margin:10 auto;
+}
+.leftpane DIV.item {
+	background: white;
+}
+.galleryitem {
+	background: white;
+}
+.text {
+	background: white;
+}

@@ -1,0 +1,157 @@
+BODY, TD {
+	font: normal 10pt Verdana,arial,sans-serif;
+}
+A {
+    color: #808080;
+    text-decoration: none;
+}
+A:hover {
+	color: black;
+	text-decoration: underline;
+}
+A:visited {
+}
+/* hlavni layout */
+.page {
+	display:block;
+	margin: 30px;
+  margin-left: auto ;
+  margin-right: auto ;
+  max-width: 1280px;
+}
+.banner {
+	background-image: url('../pics/banner.gif');
+	background-repeat: no-repeat;
+}
+.bannertoggle {
+	text-align: right;
+}
+/* hlavni menu */
+.leftpane {
+	float: left;
+	width: 20%;
+	border: none;
+}
+.innerpane {
+	margin-left:0px;
+	border: none;
+	min-height: 500px;
+}
+.leftpane DIV.head, .leftpane DIV.item {
+	padding: 3px;
+	margin: 5px;
+	border: none;
+	background: white;
+}
+.leftpane A {
+}
+.leftpanelink1 {
+	border-left: 15px solid;
+	border-color: #808080;
+	text-transform: uppercase;
+	padding-left: 5px;
+}
+.leftpanelink2 {
+	border-left: 15px solid;
+	margin-left: 10px;
+	border-color: #bfbfbf;
+	padding-left: 5px;
+}
+.leftpanelink3 {
+	margin-left: 25px;
+	font-size: small;
+	padding-left: 5px;
+}
+/* hlavni stranka */
+.text {
+	float: none;
+	text-align: left;
+	min-height: 500px;
+	border: none;
+	padding: 20px;
+	margin: 10px;
+	margin-left: 20%;
+}
+.text H1 {
+	color: white;
+	background: gray;
+	padding: 2px;
+	padding-left: 20px;
+	margin-left: -20px;
+	border-left: 20px solid lightgrey;
+}
+/* tabulky */
+DIV.tablerow {
+	float: none;
+}
+.tablerow SPAN {
+	float: left;
+}
+.table .head {
+	margin: 0px;
+	font-weight: bold;
+}
+.table .item {
+	margin: 0px;
+	float: none;
+}
+/* obrazky */
+.center {
+	float: none;
+	display: block;
+	text-align: center;
+}
+.left {
+	float: none;
+	display: block;
+	text-align: left;
+}
+.right {
+	float: none;
+	display: block;
+	text-align: right;
+}
+.alertred {
+	display:block;
+	text-align: center;
+	margin: 20px;
+	color: red;
+}
+.alertblue {
+	display:block;
+	text-align: center;
+	margin: 20px;
+	color: blue;
+}
+/* galerie */
+.gallery {
+}
+.galleryitem {
+	float: left;
+	font-size: 10px;
+	margin: 2px;
+	padding: 5px;
+	border: 1px solid #bfbfbf;
+	height: 120px;
+	text-align: center;
+	background: #bfbfbf;
+}
+.galleryitem:hover {
+	background: #bfbfbf;
+}
+.gallery IMG {
+	margin: 5px;
+	border: 0px;
+}
+.caption {
+	font: 16pt bold;
+	text-align: center;
+}
+.position {
+	text-align: center;
+}
+/* search */
+.chunk {
+	font-size: small;
+	color: grey;
+}
